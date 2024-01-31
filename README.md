@@ -12,4 +12,4 @@ This is my personal side project, an iOS app that emulates Yelp. I've employed t
 - **Manage Collections**: On the Favorites page, users can adding new collections or removing existing collections.
 
 
-**Thank you for stepping into my Repo**
+**     :heart::heart:Thank you for stepping into my Repo:heart::heart:**
