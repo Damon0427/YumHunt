@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2023-12-20 11.27.39 - Design an icon for the iOS app 'YumHunt', with a focus on discovering delicious food. The icon should be 1024x1024 in size, suitable for iOS, and with-2.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
